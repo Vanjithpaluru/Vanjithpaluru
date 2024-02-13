@@ -5,6 +5,7 @@
 -  📞 6304201209
 -  🎂 19/05/2002
 -  ✉️ pvanjith980@gmail.com
+-  📍 Nandyal
 
 <!---
 Vanjithpaluru/Vanjithpaluru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
